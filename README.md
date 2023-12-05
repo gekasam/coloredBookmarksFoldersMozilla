@@ -10,3 +10,6 @@ userChrome.css
 	list-style-image: url('folderRed.png') !important;
 }
 ```
+
+Result
+![result](https://github.com/gekasam/coloredBookmarksFoldersMozilla/blob/main/coloredFolderIconsMozilla/result.png)
