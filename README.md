@@ -12,5 +12,5 @@ userChrome.css
 ```
 
 Result
-
+.
 ![result](https://github.com/gekasam/coloredBookmarksFoldersMozilla/blob/main/coloredFolderIconsMozilla/result.png)
