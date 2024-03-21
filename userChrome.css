@@ -1,0 +1,16 @@
+.tabbrowser-tab[titlechanged] {
+	color: #89e4ff !important;
+}
+
+.tabbrowser-tab {
+	height: 25px;
+}
+
+.titlebar-spacer[type="pre-tabs"], .titlebar-spacer[type="post-tabs"] {
+  width: 0 !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="immedeatlyToRead"] {
+	-moz-image-region:auto !important;
+	list-style-image: url('folderRed.png') !important;
+}
