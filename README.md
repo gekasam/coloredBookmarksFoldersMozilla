@@ -7,7 +7,7 @@ userChrome.css
 ```
 #personal-bookmarks .bookmark-item[container][label="immedeatlyToRead"] {
 	-moz-image-region:auto !important;
-	list-style-image: url('folderRed.png') !important;
+	list-style-image: url('./coloredBookmarksFoldersMozilla-main/coloredFolderIconsMozilla/folderRed.png') !important;
 }
 ```
 
